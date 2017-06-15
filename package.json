@@ -1,0 +1,22 @@
+{
+  "name": "electronstartup",
+  "version": "1.0.0",
+  "description": "\"# ElectronStartup\"",
+  "main": "index.js",
+  "scripts": {
+    "electron": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuFfIaNiSM/ElectronStartup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuFfIaNiSM/ElectronStartup/issues"
+  },
+  "homepage": "https://github.com/RuFfIaNiSM/ElectronStartup#readme",
+  "dependencies": {
+    "electron": "^1.6.11"
+  }
+}
