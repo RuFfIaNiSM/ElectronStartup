@@ -6,7 +6,7 @@
 $ npm install
 ```
 
-## Start Development Server
+## Start Electron Development
 
 ```
 $ npm run electron
