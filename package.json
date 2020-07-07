@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/RuFfIaNiSM/ElectronStartup#readme",
   "dependencies": {
-    "electron": "^1.6.11"
+    "electron": "^9.1.0"
   }
 }
